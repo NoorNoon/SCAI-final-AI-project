@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+
+roboflow:
+  workspace: own-wokrspace
+  project: facial-data
+  version: 2
+  license: Private
+  url: https://universe.roboflow.com/own-wokrspace/facial-data/dataset/2
