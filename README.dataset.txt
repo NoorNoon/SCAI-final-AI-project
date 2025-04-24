@@ -1,6 +1,6 @@
-# Facial Data > 2024-11-25 2:46pm
-https://universe.roboflow.com/own-wokrspace/facial-data
+# crowd counting > 2024-03-28 5:48am
+https://universe.roboflow.com/yolo-analysis/crowd-counting-umiax
 
 Provided by a Roboflow user
-License: undefined
+License: CC BY 4.0
 

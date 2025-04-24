@@ -1,8 +1,8 @@
 
-Facial Data - v2 2024-11-25 2:46pm
+crowd counting - v1 2024-03-28 5:48am
 ==============================
 
-This dataset was exported via roboflow.com on February 7, 2025 at 9:40 AM GMT
+This dataset was exported via roboflow.com on June 9, 2024 at 6:44 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,8 +17,8 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 1203 images.
-Face are annotated in YOLOv8 format.
+The dataset includes 2200 images.
+P are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)

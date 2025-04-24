@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 7
-names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+nc: 1
+names: ['person']
 
 roboflow:
-  workspace: own-wokrspace
-  project: facial-data
-  version: 2
-  license: Private
-  url: https://universe.roboflow.com/own-wokrspace/facial-data/dataset/2
+  workspace: yolo-analysis
+  project: crowd-counting-umiax
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-analysis/crowd-counting-umiax/dataset/1
